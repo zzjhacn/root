@@ -3,7 +3,7 @@
 	<groupId>com.gray</groupId>
 	<artifactId>root</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.02</version>
+	<version>0.0.03-SNAPSHOT</version>
 	<name>${project.artifactId}-v${project.version}</name>
 	<description>根pom。定义引用包版本。</description>
 
@@ -14,7 +14,7 @@
 		<developerConnection>
 			scm:git:https://github.com/zzjhacn/root.git
 	    </developerConnection>
-	  <tag>root-0.0.02</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<properties>
