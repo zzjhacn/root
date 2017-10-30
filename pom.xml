@@ -28,7 +28,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<git.path>scm:git:https://github.com/zzjhacn/root.git</git.path>
+		<git.path>https://github.com/zzjhacn/root.git</git.path>
 		<nexus.url>http://nexus.local.com/nexus/content/repositories</nexus.url>
 	</properties>
 
